@@ -3,8 +3,9 @@
   - [2.1 the tool of production.](#21-the-tool-of-production)
   - [2.2 The based setting on VScode.](#22-the-based-setting-on-vscode)
     - [2.21 Selecting File -> choosing Auto Save](#221-selecting-file---choosing-auto-save)
-    - [2.22 creat the different folder to save different file on VScode](#222-creat-the-different-folder-to-save-different-file-on-vscode)
+    - [2.22 creat the different file to save different file on VScode](#222-creat-the-different-file-to-save-different-file-on-vscode)
   - [2.3 what we need to install the plug-in on VScode?](#23-what-we-need-to-install-the-plug-in-on-vscode)
+  - [2.4 How to creat a new Html file on VScode](#24-how-to-creat-a-new-html-file-on-vscode)
 - [3. make a website by ourself](#3-make-a-website-by-ourself)
   - [3.1 first of all, we need known about the stuct of Html](#31-first-of-all-we-need-known-about-the-stuct-of-html)
   - [3.2 more about Html](#32-more-about-html)
@@ -16,7 +17,7 @@
       - [3.25.1 Disorderded list](#3251-disorderded-list)
       - [3.25.2 Ordered list](#3252-ordered-list)
     - [3.26 Form](#326-form)
-- [4. The summary](#4-the-summary)
+- [4. the summary](#4-the-summary)
 
 ## **Welcome to my first blog about HTML study!!**
 
@@ -48,7 +49,7 @@
 
 ![image](D:/Vscode_code/github/Dark-indicator/image/VScode setting.png)
 
-### 2.22 creat the different folder to save different file on VScode
+### 2.22 creat the different file to save different file on VScode
 
     AS shown:
 
@@ -358,6 +359,6 @@ for excample :
 - effect picture:
   ![image](D:/Vscode_code/github/Dark-indicator/image/FORM.png)
 
-# 4. The summary 
+# 4. the summary 
 
 **IN** this part, we have learned how to write a basic site code, besides that, we finished the showing on the website by liveserve, that is amazing but the our site is so ordinary, so we will learn how to dress our site at next part.
