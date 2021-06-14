@@ -30,7 +30,7 @@
 >    which is not programming language, markup language is a set of markup tag, HTML determines the skeleton of web page, 
 >    we can write ourselves web by the HTML.
 
-![image](D:/Vscode_code/github/Dark-indicator/image/HTML.png)
+![image](./image/HTML.png)
 
 # 2.How to make our HTML file by ourself?
 
@@ -47,13 +47,13 @@
     >when we had finished this, we needn't worry about our code will disapear when we shut off the VScode.
     AS shown:
 
-![image](D:/Vscode_code/github/Dark-indicator/image/VScode setting.png)
+![image](./image/VScode setting.png)
 
 ### 2.22 creat the different file to save different file on VScode
 
     AS shown:
 
-![image](D:/Vscode_code/github/Dark-indicator/image/VScode file picture.png)
+![image](./image/VScode file picture.png)
 
 ## 2.3 what we need to install the plug-in on VScode?
 
@@ -64,11 +64,11 @@
  >## 2.4 How to creat a new Html file on VScode  
  >
  >AS shouwn:  
- >![image](D:/Vscode_code/github/Dark-indicator/image/create new.png)  
+ >![image](./image/create new.png)  
 
     attention: file's suffix is .html, such as first.html
 
-![image](D:/Vscode_code/github/Dark-indicator/image/my first html.png)
+![image](./image/my first html.png)
 
 # 3. make a website by ourself
 
@@ -102,11 +102,11 @@
 ```
 
 **Right click -> choose open with live sever**
-![image](D:/Vscode_code/github/Dark-indicator/image/live sever.png)  
+![image](./image/live sever.png)  
 
 >let us have a look my first web page  
 
-![image](D:/Vscode_code/github/Dark-indicator/image/first web page.png)
+![image](./image/first web page.png)
 
 ## 3.2 more about Html
 
@@ -137,7 +137,7 @@
 ```
 
 >:+1:**AS shown:**
->![image](D:/Vscode_code/github/Dark-indicator/image/heading.png)
+>![image](./image/heading.png)
 
 ### 3.22 text format
 
@@ -155,7 +155,7 @@
 ```
 
 **As shown:**
-![image](D:/Vscode_code/github/Dark-indicator/image/text format.png)
+![image](./image/text format.png)
 
 -----
 
@@ -177,11 +177,11 @@
 
 >:+1:take a view:
 
-![image](D:/Vscode_code/github/Dark-indicator/image/URL google.png)
+![image](./image/URL google.png)
 
 >we can click on the Google to visit Google !! please have a try now :smile:
 >**:sunglasses:just like this !!!**
->![image](D:/Vscode_code/github/Dark-indicator/image/URL.gif)- [1.:house:Why we need development of front end by HTML?](#1housewhy-we-need-development-of-front-end-by-html)
+>![image](./image/URL.gif)- [1.:house:Why we need development of front end by HTML?](#1housewhy-we-need-development-of-front-end-by-html)
 
 >but What does target mean？:astonished:
 >answer: **target="_blank"** mean we need a new window to open the page. if you don't write target, the system will consider it's :+1:target="_self"
@@ -192,7 +192,7 @@
 
 >:+1:first of all, you need creat a file folder to save your image!!
 
-![image](D:/Vscode_code/github/Dark-indicator/image/image file folder.png)
+![image](./image/image file folder.png)
 
 >:smile:we can use the picture's URL to Show it to everyone.
 
@@ -200,7 +200,7 @@
 <img src="./img/logo/444.jpg" alt="peugeot" width="200" >
 ```
 
-![image](D:/Vscode_code/github/Dark-indicator/image/horse.png)
+![image](./image/horse.png)
 
 ----
 
@@ -250,7 +250,7 @@
 
 - the effect picture
 
->![image](D:/Vscode_code/github/Dark-indicator/image/table.png)
+>![image](./image/table.png)
 
 ### 3.25 List
 
@@ -273,7 +273,7 @@ so the disordered list by ```<ul>```
 ```
 
 - the effect piture:
-  ![image](D:/Vscode_code/github/Dark-indicator/image/disordered list.png)
+  ![image](./image/disordered list.png)
 - we can change the type !
 
 ```html
@@ -285,9 +285,9 @@ so the disordered list by ```<ul>```
 ```
 
 - just like this
-  ![image](D:/Vscode_code/github/Dark-indicator/image/disordered list square.png)
+  ![image](./image/disordered list square.png)
 - another choose : type="circle"
-  ![image](D:/Vscode_code/github/Dark-indicator/image/disordered list circle.png)
+  ![image](./image/disordered list circle.png)
 
 #### 3.25.2 Ordered list
 
@@ -300,7 +300,7 @@ so the disordered list by ```<ul>```
 ```
 
 - AS shown：
-  ![image](D:/Vscode_code/github/Dark-indicator/image/ordered list.png)
+  ![image](./image/ordered list.png)
 - the default is sort by number
 
 >other sorting method include "A","a" and so on. the setting method is ```<ol type="a">```
@@ -357,7 +357,7 @@ for excample :
 ```
 
 - effect picture:
-  ![image](D:/Vscode_code/github/Dark-indicator/image/FORM.png)
+  ![image](./image/FORM.png)
 
 # 4. the summary 
 
